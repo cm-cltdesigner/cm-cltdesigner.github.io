@@ -9,6 +9,7 @@ export default class ContactUs extends Component {
               <p className="lead">
               Feel free to contact me for any work or suggestions below
               </p>
+              
             </div>
           </div>
           <div className="row">
