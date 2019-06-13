@@ -131,7 +131,7 @@ let resumeData = {
         "name":"Shannon M."
       },
       {
-        "description":"The work mrs.manery done for my company was amazing she made my vision come true with a little twist will hire her for my next project thanks...",
+        "description":"The work Mrs. Manery done for my company was amazing she made my vision come true with a little twist will hire her for my next project thanks...",
         "name":"Dontè M."
       },
     ]
